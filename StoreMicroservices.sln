@@ -3,9 +3,32 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34902.65
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{4B28ECC8-FF93-4D76-A75F-43531E355150}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "gateways", "gateways", "{183422C3-179B-4944-A45A-EC4BB6B48FAD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "microservices", "microservices", "{A2F512D2-0C47-4D03-A715-FD82304A6D11}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CatalogMicroservice", "CatalogMicroservice\CatalogMicroservice.csproj", "{AABA1A26-3DDF-4661-B500-7EEC8DF7D658}"
+EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AABA1A26-3DDF-4661-B500-7EEC8DF7D658}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AABA1A26-3DDF-4661-B500-7EEC8DF7D658}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AABA1A26-3DDF-4661-B500-7EEC8DF7D658}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AABA1A26-3DDF-4661-B500-7EEC8DF7D658}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{183422C3-179B-4944-A45A-EC4BB6B48FAD} = {4B28ECC8-FF93-4D76-A75F-43531E355150}
+		{A2F512D2-0C47-4D03-A715-FD82304A6D11} = {4B28ECC8-FF93-4D76-A75F-43531E355150}
+		{AABA1A26-3DDF-4661-B500-7EEC8DF7D658} = {A2F512D2-0C47-4D03-A715-FD82304A6D11}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {6E9497B1-239C-4E33-AF9C-C55878850A73}

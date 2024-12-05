@@ -1,12 +1,37 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Projects\\.Net\\StoreMicroservices\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AABA1A26-3DDF-4661-B500-7EEC8DF7D658}|CatalogMicroservice\\CatalogMicroservice.csproj|d:\\projects\\.net\\storemicroservices\\catalogmicroservice\\model\\catalogitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AABA1A26-3DDF-4661-B500-7EEC8DF7D658}|CatalogMicroservice\\CatalogMicroservice.csproj|solutionrelative:catalogmicroservice\\model\\catalogitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CatalogItem.cs",
+              "DocumentMoniker": "D:\\Projects\\.Net\\StoreMicroservices\\CatalogMicroservice\\Model\\CatalogItem.cs",
+              "RelativeDocumentMoniker": "CatalogMicroservice\\Model\\CatalogItem.cs",
+              "ToolTip": "D:\\Projects\\.Net\\StoreMicroservices\\CatalogMicroservice\\Model\\CatalogItem.cs",
+              "RelativeToolTip": "CatalogMicroservice\\Model\\CatalogItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T08:12:53.696Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
