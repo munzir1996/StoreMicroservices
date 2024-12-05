@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "D:\\Projects\\.Net\\StoreMicroservices\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{AABA1A26-3DDF-4661-B500-7EEC8DF7D658}|CatalogMicroservice\\CatalogMicroservice.csproj|d:\\projects\\.net\\storemicroservices\\catalogmicroservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AABA1A26-3DDF-4661-B500-7EEC8DF7D658}|CatalogMicroservice\\CatalogMicroservice.csproj|solutionrelative:catalogmicroservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AABA1A26-3DDF-4661-B500-7EEC8DF7D658}|CatalogMicroservice\\CatalogMicroservice.csproj|d:\\projects\\.net\\storemicroservices\\catalogmicroservice\\controllers\\catalogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AABA1A26-3DDF-4661-B500-7EEC8DF7D658}|CatalogMicroservice\\CatalogMicroservice.csproj|solutionrelative:catalogmicroservice\\controllers\\catalogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{AABA1A26-3DDF-4661-B500-7EEC8DF7D658}|CatalogMicroservice\\CatalogMicroservice.csproj|d:\\projects\\.net\\storemicroservices\\catalogmicroservice\\repository\\catalogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AABA1A26-3DDF-4661-B500-7EEC8DF7D658}|CatalogMicroservice\\CatalogMicroservice.csproj|solutionrelative:catalogmicroservice\\repository\\catalogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -27,19 +35,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects\\.Net\\StoreMicroservices\\CatalogMicroservice\\Program.cs",
+              "RelativeDocumentMoniker": "CatalogMicroservice\\Program.cs",
+              "ToolTip": "D:\\Projects\\.Net\\StoreMicroservices\\CatalogMicroservice\\Program.cs",
+              "RelativeToolTip": "CatalogMicroservice\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T11:54:35.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CatalogController.cs",
+              "DocumentMoniker": "D:\\Projects\\.Net\\StoreMicroservices\\CatalogMicroservice\\Controllers\\CatalogController.cs",
+              "RelativeDocumentMoniker": "CatalogMicroservice\\Controllers\\CatalogController.cs",
+              "ToolTip": "D:\\Projects\\.Net\\StoreMicroservices\\CatalogMicroservice\\Controllers\\CatalogController.cs",
+              "RelativeToolTip": "CatalogMicroservice\\Controllers\\CatalogController.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAqwDsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T11:47:04.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "CatalogRepository.cs",
               "DocumentMoniker": "D:\\Projects\\.Net\\StoreMicroservices\\CatalogMicroservice\\Repository\\CatalogRepository.cs",
               "RelativeDocumentMoniker": "CatalogMicroservice\\Repository\\CatalogRepository.cs",
               "ToolTip": "D:\\Projects\\.Net\\StoreMicroservices\\CatalogMicroservice\\Repository\\CatalogRepository.cs",
               "RelativeToolTip": "CatalogMicroservice\\Repository\\CatalogRepository.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-05T09:13:56.423Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "ICatalogRepository.cs",
               "DocumentMoniker": "D:\\Projects\\.Net\\StoreMicroservices\\CatalogMicroservice\\Repository\\ICatalogRepository.cs",
               "RelativeDocumentMoniker": "CatalogMicroservice\\Repository\\ICatalogRepository.cs",
@@ -47,12 +81,11 @@
               "RelativeToolTip": "CatalogMicroservice\\Repository\\ICatalogRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T09:11:22.761Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-05T09:11:22.761Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "CatalogItem.cs",
               "DocumentMoniker": "D:\\Projects\\.Net\\StoreMicroservices\\CatalogMicroservice\\Model\\CatalogItem.cs",
               "RelativeDocumentMoniker": "CatalogMicroservice\\Model\\CatalogItem.cs",
@@ -60,8 +93,7 @@
               "RelativeToolTip": "CatalogMicroservice\\Model\\CatalogItem.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T08:12:53.696Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-05T08:12:53.696Z"
             }
           ]
         }
